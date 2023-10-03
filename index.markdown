@@ -1,6 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title:  "Benjamin Roycraft, Ph.D."
+date:   2023-10-03 12:10:43 -0400
 ---
+
+I am currently a postdoctoral researcher in the Department of Statistics at the University of California, Davis.
+
+Research Interests:
+- Topological Data Analysis
+- Networks
+- High-Dimensional Correlation Systems
+- Nonparametric Statistics

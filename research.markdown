@@ -1,6 +1,5 @@
 ---
-layout: home
-date:   2023-10-03 12:10:43 -0400
+layout: post
 ---
 
 # Publications

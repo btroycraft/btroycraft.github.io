@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Benjamin Roycraft, PhD
-author: Benjamin Roycraft
-email: roycraft.benjamin@gmail.com
+author.name: Benjamin Roycraft
+author.email: roycraft.benjamin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website for Benjamin Roycraft, postdoctoral researcher in the Department of Statistics at the University of California, Davis.
 baseurl: "" # the subpath of your site, e.g. /blog

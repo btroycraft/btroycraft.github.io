@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Research
-order: 1
 ---
 
 Publications

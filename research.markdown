@@ -5,8 +5,8 @@ title: Research
 
 Publications
 
-- "Bootstrapping Persistent Betti Numbers and other Stabilizing Statistics". Benjamin Roycraft, Johannes Krebs, and Wolfgang Polonik. 2023. Annals of Statistics.
-- "On Approximation Theorems for the Euler Characteristic with Applications to the Bootstrap". Johannes Krebs, Benjamin Roycraft, and Wolfgang Polonik. 2021. Electronic Journal of Statistics.
+- "Bootstrapping Persistent Betti Numbers and other Stabilizing Statistics". Benjamin Roycraft, Johannes Krebs, and Wolfgang Polonik. 2023. *Annals of Statistics*.
+- "On Approximation Theorems for the Euler Characteristic with Applications to the Bootstrap". Johannes Krebs, Benjamin Roycraft, and Wolfgang Polonik. 2021. *Electronic Journal of Statistics*.
 
 Pre-prints
 

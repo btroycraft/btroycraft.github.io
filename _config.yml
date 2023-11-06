@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Benjamin Roycraft, Ph.D.
+title: Benjamin Roycraft, PhD
 email: roycraft.benjamin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal website for Benjamin Roycraft, Ph.D., postdoctoral researcher in the Department of Statistics at the University of California, Davis.
+  This is the personal website for Benjamin Roycraft, postdoctoral researcher in the Department of Statistics at the University of California, Davis.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  btroycraft

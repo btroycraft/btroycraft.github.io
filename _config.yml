@@ -27,9 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages:
   - research.markdown
   - manuscripts.markdown
-social_links:
-  - { platform: github, user_url: "https://github.com/btroycraft" }
-  - { platform: orcid, user_url: "https://orcid.org/0000-0001-8899-8116" }
+github_username: btroycraft
+orcid: 0000-0001-8899-8116
 
 # Build settings
 theme: minima

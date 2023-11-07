@@ -30,6 +30,7 @@ header_pages:
   - manuscripts.markdown
 social_links:
   - { platform: github, user_url: "https://github.com/btroycraft" }
+  - { platform: orcid, user_url: "https://orcid.org/0000-0001-8899-8116" }
 
 # Build settings
 theme: minima

@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Headshot](/assets/headshot_roycraft_680x680.jpg)
+![Headshot](/assets/headshot_roycraft_680x680.JPG)
 
 I am a postdoctoral researcher currently in the Department of Statistics at the University of California, Davis.
 

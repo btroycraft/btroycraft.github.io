@@ -2,9 +2,11 @@
 layout: home
 ---
 
-Postdoctoral researcher in the Department of Statistics at the University of California, Davis.
+![Headshot](/assets/headshot_roycraft_680x680.jpg)
 
-Research Interests:
+I am a postdoctoral researcher currently in the Department of Statistics at the University of California, Davis.
+
+My research interests include:
 - Topological Data Analysis
 - Network Analysis
 - Graphical Models

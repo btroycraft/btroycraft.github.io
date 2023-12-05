@@ -35,6 +35,8 @@ orcid: 0000-0001-8899-8116
 theme: minima
 plugins:
   - jekyll-feed
+sidebar:
+  - mysidebar
 
 # Exclude from processing.
 # The following items will not be processed, by default.

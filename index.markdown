@@ -4,7 +4,7 @@ layout: home
 
 ![Headshot](/assets/headshot_roycraft_300x300.png)
 
-I am a postdoctoral researcher currently in the Department of Statistics at the University of California, Davis.
+I am an incoming assistant professor in the Department of Statistics at the University of Florida.
 
 My research interests include:
 - Topological Data Analysis

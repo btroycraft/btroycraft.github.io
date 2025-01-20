@@ -20,9 +20,9 @@
 
 title: Benjamin Roycraft, PhD
 author: Benjamin Roycraft
-email: roycraft.benjamin@gmail.com
+email: broycraft@ufl.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Dr. Benjamin Roycraft, statistics researcher
+  Personal website of Dr. Benjamin Roycraft, statistics researcher and Assistant Professor in the Department of Statistics at the University of Florida
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages:

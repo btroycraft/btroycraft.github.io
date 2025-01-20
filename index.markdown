@@ -4,7 +4,7 @@ layout: home
 
 ![Headshot](/assets/headshot_roycraft_300x300.png)
 
-I am an incoming assistant professor in the Department of Statistics at the University of Florida.
+Assistant Professor in the Department of Statistics at the University of Florida
 
 My research interests include:
 - Topological Data Analysis
